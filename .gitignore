@@ -1,0 +1,6 @@
+# Media lives in Google Drive (or other storage), not in git.
+media/**/*
+!media/**/
+!media/**/.gitkeep
+
+.DS_Store
