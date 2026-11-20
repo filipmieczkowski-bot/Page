@@ -316,4 +316,10 @@ whatever storage you use) with the same folder names.
 
 - New pages grow from people who don't follow them yet. Judge posts on impressions and non-follower reach, not follower count.
 - Speed on official news + useful tips + good credited clips = trust, and trust compounds.
-- The "$10,000 a month" in the original post is a hook, not a plan. TikTok and YouTube payout programs generally require original content, and reposted clips of other people's footage usually don't qualify. Rockstar's publisher, Take-Two, is known for copyright takedowns. Realistic income comes later, from sponsorships or affiliate links once the page has an audience, and those need the owner's approval (section 14, rule 8).
+- The "$10,000 a month" in the original post is a hook, not a plan. Expect no income for the first months. Rockstar's publisher, Take-Two, is known for copyright takedowns.
+- **Platform payouts** (checked 2026-11-20 via third-party guides, so confirm in each app's creator settings):
+  - **YouTube Partner Program:** 1,000 subscribers + 10M Shorts views in 90 days. Reports say the bar for new applicants rises from February 2027, possibly to 20M. Reuploads and compilations without real commentary get rejected as "reused/inauthentic content", and so does AI content without human input.
+  - **X:** the old revenue sharing closed to new members in August 2026. The replacement, "Original Content Rewards", pays for original content, so reposted clips won't count.
+  - **TikTok Creator Rewards:** 18+, 10,000 followers, 100,000 views in 30 days, videos over 1 minute. Poland appears **not** to be eligible right now.
+- **What this means for us:** lean on our own written news, our own scripts and our own commentary over official footage, not plain reposts. That's what the payout programs reward.
+- **Other income, once there's an audience:** sponsorships and affiliate links. Mark every paid post as an ad, and get the owner's approval first (section 14, rule 8). Never sell the account, which breaks every platform's rules.
